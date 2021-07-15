@@ -1,0 +1,35 @@
+.cor {
+    background-color: rgb(76, 10, 151); 
+}
+
+.linha {
+    border: 1px solid;
+    color: white;
+}
+
+.titulo {
+    background-color: rgb(68, 11, 133); 
+    font-family: 'Bungee Shade', cursive;
+}
+
+.titulo2 {
+    color: white;
+}
+
+.card-body {
+    background-color: rgb(68, 11, 133);
+    color: white;
+    font-family: 'Rajdhani', sans-serif;
+}
+
+.card-footer {
+    background-color: black;
+    color: white;
+
+}
+
+.espaço {
+    background-color: black;
+    background-color: rgb(76, 10, 151);  
+    border: 1px solid white;
+}
